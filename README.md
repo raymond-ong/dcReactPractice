@@ -1,5 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+![alt text](https://github.com/raymond-ong/dcReactPractice/blob/master/Demo_dcjs_react_practice_ISAE_KPI.gif "Demo gif")
+
 ## Available Scripts
 
 In the project directory, you can run:
