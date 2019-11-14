@@ -20,3 +20,26 @@
 .App-link {
   color: #09d3ac;
 }
+
+#myTableId tr:hover {
+  background-color: lightblue
+}
+
+#myTableId td {
+  text-align: left;
+  border-bottom: 1px solid gray;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+#myTableId thead tr th{
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: lightgoldenrodyellow;
+  border-top: 1px solid gray;
+}
+
+.dc-table-label {
+  background-color: rgba(0, 0, 0, 0.5);
+  color: white;
+}
